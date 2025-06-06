@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-rubi",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubicelll/random-str-msg-rubi.git"
+  },
+  "keywords": [],
+  "author": "Rubicel Rojo <rkwx85@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rubicelll/random-str-msg-rubi/issues"
+  },
+  "homepage": "https://github.com/Rubicelll/random-str-msg-rubi#readme",
+  "bin": {
+    "random-str-msg-rubi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
